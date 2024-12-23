@@ -1871,12 +1871,12 @@ const EDITIONS = [
       }
     ],
 
-    "upcomings": [
+   [
       {
         "subtitle": "1.20.3",
         "description": "Better Decorated Pots",
         "type": "minor",
-        "possibleDate": "Late 2023 - Early 2024",
+        "date": "December 3, 2023",
         "learnMore": "#Java_Edition_1.20.3",
         "mainFeatures": [
           { "text": "Decorated Pots can now hold items" },
@@ -1885,11 +1885,11 @@ const EDITIONS = [
         ]
       },
       {
-        "title": "???",
+        "title": "Tricky Trials",
         "subtitle": "1.21",
         "description": "Trial Chambers, Auto Crafting & Armadillos",
         "type": "major",
-        "possibleDate": "Mid 2024",
+        "date": "June 13, 2024",
         "icon": "versions/java/version_1_21.png",
         "learnMore": "#Java_Edition_1.21",
         "mainFeatures": [
@@ -1897,11 +1897,35 @@ const EDITIONS = [
           { "text": "Auto Crafter Block" },
           { "text": "Many New Copper Blocks" },
           { "text": "The Breeze" },
-          { "text": "Many unnanounced feaures" }
+          { "text": "The Mace" }
         ]
       },
-    ]
-  },
+      {
+        "title": "Bundles of Bravery",
+        "subtitle": "1.21.2",
+        "description": "Bundles",
+        "type": "minor",
+        "date": "October 22, 2024",
+        "learnMore": "#Java_Edition_1.21.2",
+        "mainFeatures: [
+          { "text": "Bundles" },
+        ]
+      },
+      {
+        "title": "The Garden Awakens",
+        "subtitle": "1.21.4",
+        "description: "Pale Garden & Creakings",
+        "type": "minor",
+        "date": "December 3, 2024,
+        "learnMore": "#Java_Edition_1.21.4
+        "mainFeatures": [
+         { "text": "Pale Garden" },
+         { "text": "The Creaking" },
+         { "text": "New Pale Oak Wood" }
+        ]
+      },
+          
+  
 
   {
     "title": "Bedrock Edition",
